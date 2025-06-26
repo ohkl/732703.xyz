@@ -2,9 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://732703.xyz/2025/06/24/hello-world/</loc>
+    <loc>http://732703.xyz/link/index.html</loc>
     
-    <lastmod>2025-06-24</lastmod>
+    <lastmod>2025-06-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://732703.xyz/categories/index.html</loc>
+    
+    <lastmod>2025-06-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://732703.xyz/tags/index.html</loc>
+    
+    <lastmod>2025-06-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://732703.xyz/2025/06/26/hello-world/</loc>
+    
+    <lastmod>2025-06-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +40,7 @@
 
   <url>
     <loc>http://732703.xyz/</loc>
-    <lastmod>2025-06-24</lastmod>
+    <lastmod>2025-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
