@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>佰樂Ahic</title>
+  <title>ThreeのNET</title>
   
   
-  <link href="http://732703.xyz/atom.xml" rel="self"/>
+  <link href="http://blog.732703.xyz/atom.xml" rel="self"/>
   
-  <link href="http://732703.xyz/"/>
+  <link href="http://blog.732703.xyz/"/>
   <updated>2025-06-26T08:44:00.716Z</updated>
-  <id>http://732703.xyz/</id>
+  <id>http://blog.732703.xyz/</id>
   
   <author>
     <name>佰樂Ahic</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://732703.xyz/2025/06/26/hello-world/"/>
-    <id>http://732703.xyz/2025/06/26/hello-world/</id>
+    <link href="http://blog.732703.xyz/2025/06/26/hello-world/"/>
+    <id>http://blog.732703.xyz/2025/06/26/hello-world/</id>
     <published>2025-06-26T08:44:00.716Z</published>
     <updated>2025-06-26T08:44:00.716Z</updated>
     
